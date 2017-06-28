@@ -1,2 +1,6 @@
 #!/usr/bin/env node
-console.log("mufeng 运行的妥妥的")
+ var path = require('path');
+ 
+ var arguments = process.argv.splice(2);
+
+console.log("arguments:", arguments);
