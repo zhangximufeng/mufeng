@@ -1,0 +1,26 @@
+{
+  "name": "mufeng",
+  "version": "1.0.0",
+  "description": "沐枫npm插件",
+  "main": "index.js",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangximufeng/mufeng.git"
+  },
+  "engines": {
+    "node":  ">=0.6"
+   },
+  "keywords": [
+    "mufeng","mu","feng","m","f","mf","muf","mufe","mufen"
+  ],
+  "author": "zhangximufeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangximufeng/mufeng/issues"
+  },
+  "homepage": "https://github.com/zhangximufeng/mufeng#readme"
+}
